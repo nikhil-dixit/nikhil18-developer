@@ -6,7 +6,7 @@
 - 💬 Ask me about **Front end | UI/UX | DSA | Back end** 
 
 
-- ⚡ Fun fact **Probably coding | gaming | sleeping right now ☺**
+- ⚡ Fun fact **Probably coding | reading | sleeping right now ☺**
 
 
 <!--
