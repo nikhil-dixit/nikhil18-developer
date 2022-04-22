@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙋🏻‍♂️, I'm Nikhil Dixit</h1> <h3 align="center">Full Stack Web developer | Competitive Programmer</h3> 
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Nikhil Dixit</h1> <h3 align="center">Full Stack Web Developer</h3> 
 
 
 - 🌱 I’m currently learning **Full Stack Development**
